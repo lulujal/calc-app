@@ -1,5 +1,5 @@
 language: node_js
 node_js:
-  - "14.18.2"
+  - "18.18.0"
 install:
   - npm install
